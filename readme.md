@@ -2,7 +2,9 @@ CS420
 FALL 2022
 Team Barishal (Alex Pruitt Jr., Grant Davis, Andrew Lewis, Dez Biddle, John Wise, William Austin, Andrew Bradley)
 
+
 This project is a drone simulation that would allow farmers to use a drone to patrol their land and scan for potential dangers, preditors, and oddities around the farm. During the completion of the project, our team used the Agile Scum approach. During this approach, the team was able to effeciently work through the project while being able to adjust for farmer/consumer needs and different team situation that would arise.
+
 
 
 The design contains the implementation for the farm dashboard. The implementation:
@@ -11,12 +13,14 @@ Displays for visualization of the farm
 Animations for the drone to visit the featured items
 Implements dashboard using JavaFX
 
+
 Active Bugs
 1.) [11/04/22] When Drone is scanning farm, user can click go to home in the middle of the process.
 Drone completes scan farm before going home.
 
 Fixed Bugs
 1.) [11/04/22] Add @ in front of drone pathway to open in scene builder
+
 
 Requirement
 JavaFX Version 19 - https://openjfx.io/
