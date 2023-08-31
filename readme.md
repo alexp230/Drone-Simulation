@@ -1,6 +1,8 @@
 CS420
 FALL 2022
-Team Barishal
+Team Barishal (Alex Pruitt Jr., Grant Davis, Andrew Lewis, Dez Biddle, John Wise, William Austin, Andrew Bradley)
+
+This project is a drone simulation that would allow farmers to use a drone to patrol their land and scan for potential dangers, preditors, and oddities around the farm. During the completion of the project, our team used the Agile Scum approach. During this approach, the team was able to effeciently work through the project while being able to adjust for farmer/consumer needs and different team situation that would arise.
 
 
 The design contains the implementation for the farm dashboard. The implementation:
